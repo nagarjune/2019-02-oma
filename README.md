@@ -19,7 +19,23 @@ Time: 2019-02-26 8:00-10:00 PST (17:00-19:00 CET)
  
 ## Call-in info
 
-TBD
+Joint call IETF / OMA - To join this meeting;
+From your computer - https://global.gotomeeting.com/join/708980637
+or
+From your smartphone - https://www.gotomeeting.com/en-gb/meeting/join-meeting and enter meeting ID 708980637
+
+You can also dial in using your phone. 
+(For supported devices, tap a one-touch number below to join instantly.) 
+United States (Toll Free): 1 877 309 2073 
+- One-touch: tel:+18773092073,,708980637# 
+United States: +1 (571) 317-3129 
+- One-touch: tel:+15713173129,,708980637# 
+Access Code: 708-980-637 
+
+Joining from a video-conferencing room or system? 
+Dial: 67.217.95.2##708980637 
+Cisco devices: 708980637@67.217.95.2 
+
 
 ## Meeting minutes
 
