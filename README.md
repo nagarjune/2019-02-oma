@@ -4,6 +4,8 @@ Meeting information and materials for the February 2019 phone call with OMA Spec
 
 Time: 2019-02-26 8:00-10:00 PST (17:00-19:00 CET)
 
+[Add to calendar](https://cdn.jsdelivr.net/gh/t2trg/2019-02-oma@master/oma-ietf-2019-02.ics).
+
 ## Draft Agenda
 
 | time (PST) |  topic |
